@@ -6,7 +6,7 @@ A simple memory pattern game inspired by The Simpsons, built with HTML, CSS, Jav
 
 ## 🎮 Live Demo
 
-Play it here: [Simpson Memory Game Live](https://khushboo-jha-15.github.io/simpson-memory-game/)
+Play it here: [Simpson Memory Game Live](https://khushboo-jha-15.github.io/Simpson-Game/)
 
 
 ---
